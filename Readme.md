@@ -2,7 +2,12 @@
 
 [![CircleCI](https://circleci.com/gh/aws-amplify/docs.svg?style=svg)](https://circleci.com/gh/aws-amplify/docs)
 
-This is the main documentation repository for the Amplify Framework. The documentation is new. We welcome [feedback](https://github.com/aws-amplify/docs/issues/new) and contributions. [Get Started >>](https://aws-amplify.github.io/docs)
+This is the main documentation repository for the Amplify Framework. We welcome [feedback](https://github.com/aws-amplify/docs/issues/new) and contributions. [Get Started >>](https://aws-amplify.github.io/docs)
+
+## V2 Docs (Preview)
+
+We just launched a preview of our new docs site. Check it out at **https://docs.amplify.aws** 🚀
+
 
 ## Contributing
 
